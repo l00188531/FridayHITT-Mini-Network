@@ -1,0 +1,4 @@
+  # Create a VPC
+  HittVPC:
+    Type: AWS::EC2::VPC
+   
